@@ -8,6 +8,7 @@ I'm also a huge nerd, coffee enthusiast and aspiring amateur photographer.
 - [ ] :computer: Improve R and SPSS projects
 - [ ] :globe_with_meridians: Continue nerding out about geography and sustainability theories
 - [ ] :bar_chart: Combine geography and coding in my projects
+- [ ] Start learning basics of Python
 
 ### Want to chat? 
 To be updated shortly!
