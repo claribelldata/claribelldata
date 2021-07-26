@@ -5,7 +5,7 @@ I'm also a huge nerd, coffee enthusiast and aspiring amateur photographer.
 
 ### Goals for 2021
 - [ ] :books: Continue my studies
-- [ ] :computer: Improve R and SPSS projects
+- [ ] :computer: Improve R projects
 - [ ] :globe_with_meridians: Continue nerding out about geography and sustainability theories
 - [ ] :bar_chart: Combine geography and coding in my projects
 - [ ] :computer: Start learning basics of Python
